@@ -2,7 +2,7 @@
 
 ### 学习任务
 
-#### 任务1. 安装环境
+#### 任务1. 基础知识
 
 1. 学习Day-01的[相关知识](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/01.初识Python.md)
 
